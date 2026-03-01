@@ -1,0 +1,5 @@
+{
+  "name": "Shri Balaji Guest House Naya Raipur",
+  "description": "Premium guest house in Naya Raipur offering comfortable AC/Non-AC rooms, parking, and family-friendly environment.",
+  "requestFramePermissions": ["geolocation"]
+}
